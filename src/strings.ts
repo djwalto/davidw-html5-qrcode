@@ -95,11 +95,11 @@ export class Html5QrcodeScannerStrings {
     }
 
     public static scanButtonStopScanningText(): string {
-        return "Stop Scanning";
+        return "Tap to Stop Scanning";
     }
 
     public static scanButtonStartScanningText(): string {
-        return "Start Scanning";
+        return "Tap to Start Scanning";
     }
 
     public static torchOnButton(): string {
